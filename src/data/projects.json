@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
+    "title": "News App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project made to explore the latest News by building an News app.",
+    "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ayushmaithil55/News-Application"
   },
   {
     "title": "Project B",
@@ -16,11 +16,11 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Rock-Paper-Scissors",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Choose Rock, Paper, or Scissors with flair,The computer awaits.",
+    "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ayushmaithil55/Rock-Paper-Scissor-Game-Using-js"
   }
 ]

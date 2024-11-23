@@ -17,6 +17,11 @@
   color: var(--color-text);
 }
 
+.title:hover{
+  font-size: 40px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+  transform: scale(1.1);
+}
 
 .menuBtn {
   display: none;
@@ -36,6 +41,12 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+}
+
+.menuItems a:hover{
+    font-size: 22px; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+    transform: scale(1.1); 
 }
 
 @media screen and (max-width: 830px) {
